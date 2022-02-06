@@ -1,0 +1,9 @@
+{
+  "name": "JerryPack",
+  "version": "1.0.0",
+  "main": "./lib/webpack.js",
+  "license": "MIT",
+  "dependencies": {
+    "babylon": "^6.18.0"
+  }
+}
